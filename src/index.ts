@@ -20,8 +20,5 @@ class EmpDetails {
         console.log(`The employee Project is     : " ${this.project}`);
 
     }
-
-    
 }
-var obj = new EmpDetails("emp1", "Selva", "Hr", 12000, "Sheets");
-obj.display();
+    
